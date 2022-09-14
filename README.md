@@ -1,8 +1,8 @@
 # PowerPlantSolution
 
-Using Visual Studio /Swagger
+Using Visual Studio / Swagger
 
-1- Navigate to PowerplantCodingChallengeTest.sln
+1- Navigate to PowerplantCodingChallenge.sln
 
 2- Run
 
@@ -10,7 +10,7 @@ Using Visual Studio /Swagger
 
 Using CMD
 
-1- Navigate to PowerplantCodingChallengeTest.sln folder path
+1- Navigate to PowerplantCodingChallenge.sln folder path
 
 2- Enter : dotnet run
 
